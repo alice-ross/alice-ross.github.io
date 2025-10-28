@@ -44,7 +44,7 @@ Teaching
 
 Posters
 ======
-* [*Conveying gender through speech: insights from trans men*](/files/conveying_gender_cdtsummit.pdf), UKRI NLP and Designing Responsible NLP CDT Joint Summit, June 2025
+* [*Conveying gender through speech: insights from trans men*](/files/conveying_gender_poster.pdf), UKRI NLP and Designing Responsible NLP CDT Joint Summit, June 2025
 * [*Ideology, discrimination and bias in synthesised voice design*](/files/ideology_iscaworkshop.pdf), ISCA/ITG Workshop on Diversity in Large Speech and Language Models, February 2025
 * [*Is there an uncanny valley for speech? Investigating listeners’ evaluations of realistic synthesised voices*](/files/uncanny_speechprosody.pdf), Speech Prosody, July 2024
 
