@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD, UKRI CDT in Natural Language Processing, University of Edinburgh, 2023-
+* MSc Developmental Linguistics (With Distinction), University of Edinburgh, 2022
+* MA (Hons) Theoretical and Applied Linguistics (2.1), University of Edinburgh, 2006
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Feminist and anarchist HCI
+* Prosody and communicative goals
+* 'Atypical' and disfluent speech
+* Users' experiences of synthesised speech and voice interfaces
+* Speech technology in language acquisition and development
+* Technology in society: ethics, ideologies, and (in)justice
 
 Publications
 ======
@@ -58,7 +41,39 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Posters
 ======
-* Currently signed in to 43 different slack teams
+* [*Conveying gender through speech: insights from trans men*](/posters/conveying_gender_cdtsummit.pdf), UKRI NLP and Designing Responsible NLP CDT Joint Summit, June 2025
+* [*Ideology, discrimination and bias in synthesised voice design*](/posters/ideology_iscaworkshop.pdf), ISCA/ITG Workshop on Diversity in Large Speech and Language Models, February 2025
+* [*Is there an uncanny valley for speech? Investigating listeners’ evaluations of realistic synthesised voices*](/posters/uncanny_speechprosody.pdf), Speech Prosody, July 2024
+
+Prizes, grants and awards
+======
+* 2023 - 2027, ***PhD Funding*, UKRI Centre for Doctoral Training in Natural Language Processing, University of Edinburgh**\
+Full scholarship covering tuition fees, programme costs and stipend
+
+* 2022, **Best Poster, Linguistics and English Language Postgraduate Conference, University of Edinburgh**\
+Prize for best poster (£50)
+
+Other professional activities
+======
+The 4th Summer Program for Yiddish Language and Literature in Berlin, August 2024\
+Maison de la culture yiddish - Bibliothèque Medem, hosted by the Osteuropa-Institut at Freie Universität Berlin
+
+The 4th LITHME Training school, May 2024\
+Language in the Human-Machine Era, hosted by the University of Hradec Králové, funded by European Cooperation in Science and Technology
+
+The 2nd Summer Program for Yiddish Language and Literature in Berlin, August 2022\
+Maison de la culture yiddish - Bibliothèque Medem, hosted by the Osteuropa-Institut at Freie Universität Berlin
+  
+Other publications
+======
+* 2024, *Constellations of Care: Anarcha-Feminism in Practice*, anthology, ed. C. Milstein\
+M. Holleb and A. Ross, *Pink Peacock: Lavishly Accessible*
+
+* 2022, *Radical Jewish Calendar 5783*, artwork\
+A. Ross, *Always Carry A Book*
+
+* 2020, *There Is Nothing So Whole as a Broken Heart*, anthology, ed. C. Milstein\
+A. Ross, *And You Shall Love*
