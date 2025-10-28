@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/alice-ross.jpg"
+  avatar           : "alice-ross.jpg"
   name             : "Alice Ross"
   pronouns         : "she/her, they/them"  
   bio              : "PhD student"
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "alice-ross" # Replace this with you Bluesky username
+  bluesky          : "alice-ross.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
