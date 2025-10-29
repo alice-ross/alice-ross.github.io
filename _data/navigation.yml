@@ -14,8 +14,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/   
+
+#removing these TEMPORARILY, because i can't get the markdown thing to work :( bring them back once publications is up
 
 #  - title: "Teaching"
 #    url: /teaching/    
