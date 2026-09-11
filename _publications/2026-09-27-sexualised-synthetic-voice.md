@@ -12,4 +12,6 @@ Examining sexualised AI-generated English-speaking voices in a popular commercia
 
 Check out the [voices](https://ariadnasc.github.io/synth-personas/)!
 
+Check out the [presentation](https://alice-ross-lll32.my.canva.site/)! (at Lavender Languages and Linguistics 32, 2 September 2026)
+
 Recommended citation: Alice Ross, Ariadna Sanchez, Elin Kanhov, Catherine Lai, and Éva Székely. 2026. Sexualised synthetic personas encode and amplify gendered power asymmetries through voice. (accepted) <i>Interspeech 2026</i>
